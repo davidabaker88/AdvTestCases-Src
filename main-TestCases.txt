@@ -1,0 +1,6 @@
+- Test case format:
+- i: - indicates input from stdin
+- o: - indicates output to stdout
+- // - separates test cases, need a // and a new line at the end of the last test case
+The grader will ignore every new line that doesn't start with i: or o: or //
+
